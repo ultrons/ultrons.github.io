@@ -18,7 +18,7 @@
 - [PyTorch on Google Cloud: How To train and tune PyTorch models on Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai)
 
 ### Toastmasters Leadership blogs
-- [Letters to the district] (https://dd-101.medium.com)
+- [Letters to the district](https://dd-101.medium.com)
 
 ---
 
